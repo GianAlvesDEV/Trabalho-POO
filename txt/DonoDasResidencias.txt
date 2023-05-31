@@ -1,0 +1,5 @@
+
+DonoDaCasa{cpf=01847238688, nome=Gian Alves Francisco, telefone=+5503988527567, renda_mensal=0.0}
+DonoDaCasa{cpf=1, nome=fvdsfs, telefone=69889, renda_mensal=9688.0}
+DonoDaCasa{cpf=123, nome=flavin, telefone=41151451, renda_mensal=0.0}
+DonoDaCasa{cpf=1551511515, nome=Rangel Neves, telefone=51541854, renda_mensal=0.0}

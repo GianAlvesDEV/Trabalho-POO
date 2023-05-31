@@ -1,0 +1,3 @@
+
+Venda{cod_venda=56564564, fk_cpf=01847238688, fk_cod_residencia=2, dataDaVenda=2022-12-22, valor=300000.0}
+Venda{cod_venda=87, fk_cpf=01847238688, fk_cod_residencia=1, dataDaVenda=2022-12-22, valor=2000000.0}

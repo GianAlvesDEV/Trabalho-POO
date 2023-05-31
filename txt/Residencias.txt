@@ -1,0 +1,3 @@
+
+Residencia{cod_residencia=1, area=1.0, endereco=b}
+Residencia{cod_residencia=2, area=212.0, endereco=rua araujo}
